@@ -16,7 +16,6 @@ Two notable developer tools are the Google Antigravity IDE, which offers a smart
 
 ## 🌟 Part B — Practical Task
 
-![alt text](<gemini 2.PNG>)
+![alt text](image.png)
 
-
-I am currently on the waitlist for Gemini 3.0, so I do not have access to update the model at this time. (can be seen in the screen shot)
+Gemini 3.0 Connected ✅
